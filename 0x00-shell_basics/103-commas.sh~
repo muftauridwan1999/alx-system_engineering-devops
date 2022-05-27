@@ -1,0 +1,3 @@
+#!/bin/bash 
+ls -am | sort |ls -am d */ |sort
+
