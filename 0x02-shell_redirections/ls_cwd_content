@@ -1,0 +1,17 @@
+total 52
+drwxr-xr-x 2 root root 295 May 30 22:48 .
+drwxr-xr-x 6 root root 135 May 30 12:56 ..
+-rwxrwxrwx 1 root root  32 May 30 11:16 0-hello_world
+-rwxrwxrwx 1 root root  29 May 30 11:14 0-hello_world~
+-rwxrwxrwx 1 root root  27 May 30 11:33 1-confused_smiley
+-rwxrwxrwx 1 root root  24 May 30 11:32 1-confused_smiley.sh~
+-rwxrwxrwx 1 root root  28 May 30 12:36 2-hellofile
+-rwxrwxrwx 1 root root  29 May 30 11:44 2-hellofile.sh~
+-rwxrwxrwx 1 root root  42 May 30 12:35 3-twofiles
+-rwxrwxrwx 1 root root  41 May 30 12:03 4-lastlines
+-rwxrwxrwx 1 root root  35 May 30 12:06 5-firstlines
+-rwxrwxrwx 1 root root  38 May 30 12:34 6-third_line
+-rwxrwxrwx 1 root root  86 May 30 22:43 7-file
+-rwxrwxrwx 1 root root  43 May 30 22:47 8-cwd_state
+-rw-r--r-- 1 root root  35 May 30 12:48 BestSchool
+-rw-r--r-- 1 root root   0 May 30 22:48 ls_cwd_content
